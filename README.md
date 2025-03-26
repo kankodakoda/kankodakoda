@@ -2,7 +2,7 @@
 I am kankodakoda, and this is my profile.
 Be sure to check out my projects!
 
-# Tech stack
+## Tech stack
 Python, Java, C#, C, Dart
 
 <!--
