@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am kankodakoda, and this is my profile.
+Be sure to check out my projects!
+
+# Tech stack
+Python, Java, C#, C, Dart
 
 <!--
 **kankodakoda/kankodakoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
